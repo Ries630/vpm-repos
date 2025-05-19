@@ -14,8 +14,9 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[],
-    "packages":{
-        "com.rieslab.test-vpm-package":{
+    "packages":[
+        {
+            "name":"com.rieslab.test-vpm-package",
             "versions":{
                 "0.0.1":{
                     "name":"com.rieslab.test-vpm-package",
@@ -33,5 +34,5 @@
                 }
             }
         }
-    }
+    ]
 }
