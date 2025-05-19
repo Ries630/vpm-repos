@@ -1,0 +1,37 @@
+{
+    "name":"Ries630",
+    "id":"dev.rieslab.vpm",
+    "url":"https://vpm.rieslab.dev/vpm.json",
+    "author":{
+        "email":"ries@rieslab.dev",
+        "name":"Ries630",
+        "url":"https://rieslab.dev"
+    },
+    "description":"Ries630's VPM packages repository.",
+    "infoLink":{
+        "url":"http://github.com/Ries630/vpm-repos",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[],
+    "packages":{
+        "com.rieslab.test-vpm-package":{
+            "versions":{
+                "0.0.1":{
+                    "name":"com.rieslab.test-vpm-package",
+                    "displayName":"VPM Test Package",
+                    "version":"0.0.1",
+                    "unity":"2022.3",
+                    "description":"Simple Package for testing Automation",
+                    "vrchatVersion":"2022.1.1",
+                    "url": "https://github.com/Ries630/test-vpm-package/releases/download/0.0.1/com.rieslab.test-vpm-package-0.0.1.zip",
+                    "author":{
+                        "name":"Ries630",
+                        "email":"ries@rieslab.dev",
+                        "url": "https://rieslab.dev"
+                    }
+                }
+            }
+        }
+    }
+}
