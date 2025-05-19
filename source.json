@@ -1,7 +1,7 @@
 {
     "name":"Ries630",
     "id":"dev.rieslab.vpm",
-    "url":"https://vpm.rieslab.dev/vpm.json",
+    "url":"https://vpm.rieslab.dev/source.json",
     "author":{
         "email":"ries@rieslab.dev",
         "name":"Ries630",
